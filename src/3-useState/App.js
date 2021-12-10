@@ -1,9 +1,10 @@
 import React from 'react'
+import Counter from './UseStateCounter';
 
 const App = () => {
   return (
     <div>
-      APP
+      <Counter/>
     </div>
   )
 }
